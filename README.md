@@ -1,5 +1,5 @@
 
-![logo](https://github.com/AmirSalehTaghavian/AmirSalehTaghavian/blob/main/Jowhareh_galleries_8_poster_d300ac90-3066-49dc-9572-d0661bf9a06f.png)
+<img alt="image" style="margin-right:100px ;height: 100px;width: 100px;" src="https://github.com/AmirSalehTaghavian/AmirSalehTaghavian/blob/main/image-coding.png">
 
 <h1 align="center">Hi 👋, I'm Amir saleh Taghavian</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
