@@ -36,12 +36,6 @@
 
 ## 🔗 شبکه‌های اجتماعی و حمایت مالی
 
-
- 
-## 🔗 شبکه‌های اجتماعی و حمایت مالی
-
-## 🔗 شبکه‌های اجتماعی و حمایت مالی
-
 <p align="center">
   <!-- لینک یوتیوب -->
   <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL_ID" target="_blank">
