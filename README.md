@@ -51,6 +51,10 @@
   <a href="https://www.paypal.me/YOUR_PAYPAL_ME_LINK" target="_blank">
     <img src="https://img.shields.io/badge/Donate-PayPal-007bff?style=flat-square&logo=paypal&logoColor=white" alt="دونیت با پی‌پال" />
   </a>
+    <!--  Instagram Link  -->
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="اینستاگرام" />
+  </a>
 </p>
 
 <br/>
