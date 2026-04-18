@@ -13,16 +13,15 @@
 ---
 
 <br/>
-<br/>
 
 ## 🚀 مهارت‌های من
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git&perline=6" />
 </p>
-<br/>
-<br/>
 
 ---
+
+<br/>
 
 ## 📊 وضعیت گیت‌هاب من
 <p align="center">
@@ -31,12 +30,10 @@
 </p>
 
 
-<br/>
-<br/>
 ---
 
-## فعالیت و اموزش ها
-
+<br/>
+## فعالیت و اموزش 
 <p align="center">
   <!-- Youtube Link  -->
   <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL_ID" target="_blank">
