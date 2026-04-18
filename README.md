@@ -27,6 +27,25 @@
 
 ---
 
+## فعالیت و اموزش ها
+
+<p align="center">
+  <!-- Youtube Link  -->
+  <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL_ID" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="یوتیوب" />
+  </a>
+  <!--  Telegram Link  -->
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E2?style=flat-square&logo=telegram&logoColor=white" alt="تلگرام" />
+  </a>
+  <!--  Donate Link  -->
+  <a href="https://www.paypal.me/YOUR_PAYPAL_ME_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-007bff?style=flat-square&logo=paypal&logoColor=white" alt="دونیت با پی‌پال" />
+  </a>
+</p>
+
+
+
 ## 🐍 انیمیشن contributions (اگر شلوغ نشد)
 <p align="center">
   <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
