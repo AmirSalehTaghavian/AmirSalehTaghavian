@@ -35,26 +35,26 @@
 <br/>
 
 ## 🔗 شبکه‌های اجتماعی و حمایت مالی
-<p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<p align="center">
   <!-- لینک یوتیوب -->
-  <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL_ID" target="_blank" style="margin: 5px;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="یوتیوب" width="30" height="30"/>
+  <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL_ID" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube" alt="یوتیوب" />
   </a>
   <!-- لینک تلگرام -->
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank" style="margin: 5px;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/telegram-app.png" alt="تلگرام" width="30" height="30"/>
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E2?style=social&logo=telegram" alt="تلگرام" />
   </a>
   <!-- لینک اینستاگرام -->
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank" style="margin: 5px;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="اینستاگرام" width="30" height="30"/>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" alt="اینستاگرام" />
   </a>
   <!-- لینک دونیت (مثلا با PayPal) -->
-  <a href="https://www.paypal.me/YOUR_PAYPAL_ME_LINK" target="_blank" style="margin: 5px;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/paypal.png" alt="دونیت با پی‌پال" width="30" height="30"/>
+  <a href="https://www.paypal.me/YOUR_PAYPAL_ME_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-PayPal-007bff?style=social&logo=paypal" alt="دونیت با پی‌پال" />
   </a>
    <!-- لینک دونیت (مثلا با Buy Me A Coffee) -->
-  <a href="https://www.buymeacoffee.com/YOUR_BMAC_USERNAME" target="_blank" style="margin: 5px;">
-    <img src="https://img.icons8.com/ios-filled/50/000000/buy-me-a-coffee.png" alt="خرید یه قهوه برام" width="30" height="30"/>
+  <a href="https://www.buymeacoffee.com/YOUR_BMAC_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-007bff?style=social&logo=buy-me-a-coffee" alt="خرید یه قهوه برام" />
   </a>
 </p>
 
