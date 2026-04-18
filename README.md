@@ -35,7 +35,7 @@
 <br/>
 
 ## 🔗 شبکه‌های اجتماعی و حمایت مالی
-<p align="center">
+<p align="center" display="none">
   <!-- لینک یوتیوب -->
   <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL_ID" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube" alt="یوتیوب" />
@@ -53,9 +53,6 @@
     <img src="https://img.shields.io/badge/Donate-PayPal-007bff?style=social&logo=paypal" alt="دونیت با پی‌پال" />
   </a>
    <!-- لینک دونیت (مثلا با Buy Me A Coffee) -->
-  <a href="https://www.buymeacoffee.com/YOUR_BMAC_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-007bff?style=social&logo=buy-me-a-coffee" alt="خرید یه قهوه برام" />
-  </a>
 </p>
 
 <br/>
