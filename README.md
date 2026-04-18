@@ -1,38 +1,70 @@
-
-<img alt="image" style="margin-right:100px ;height: 100px;width: 100px;" src="https://github.com/AmirSalehTaghavian/AmirSalehTaghavian/blob/main/image-coding.png">
-
-<h1 align="center">Hi 👋, I'm Amir saleh Taghavian</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
-
-<img align="right" alt="coding GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSotTFsM24FS8CV1jb8CYZcaPWYiQZTi1YEFw&s">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amirsalehtaghavian&label=Profile%20views&color=0e75b6&style=flat" alt="amirsalehtaghavian" /> </p>
-
-- 🔭 I’m currently working on [Kolbe sabz](https://amirsalehtaghavian.github.io/Kolbe-sabz--tagh/)
-
-- 🌱 I’m currently learning **React JS**
-
-- 🤝 Where do you work? [Telegram](https://t.me/projectsiteamir)
-
-- 👨‍💻 All of my projects are available at [https://github.com/AmirSalehTaghavian](https://github.com/AmirSalehTaghavian)
-
-- 📫 How to reach me **amirsalehtaghavian**
-
-- ⚡ How old are you ? **I'm 13 years old**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/amirstz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirstz" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amirstz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amirstz" height="30" width="40" /></a>
+<p align="center">
+  <!-- هدر عنوان اصلی -->
+  <h1 align="center" style="font-size: 2.5em; color: #8A2BE2;">✨ خوش آمدید به دنیای من! ✨</h1>
+  <h2 align="center" style="font-size: 1.5em; color: #4169E1;">Front-End Developer | 🇮🇷 Iran</h2>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirsalehtaghavian&show_icons=true&locale=en&layout=compact" alt="amirsalehtaghavian" /></p>
+<p align="center">
+  <!-- بنر بزرگ و جذاب با انیمیشن، با تمرکز روی رنگ های ملی -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:008000,50:FFD700,100:FF4500&height=300&section=header&text=Front-End%20Wizard%20⚡&fontSize=50&fontColor=ffffff&fontAlign=8&strokeWidth=3&animation=fadeInDown&strokeColor=000000" alt="بنر پروفایل" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirsalehtaghavian&show_icons=true&locale=en" alt="amirsalehtaghavian" /></p>
+---
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 👋 درباره‌ی من: ۱۳ ساله، فرانت‌اند کار، از ایران 🇮🇷
+سلام! من یک **فرانت‌اند دولوپر ۱۳ ساله** از ایران هستم که عاشق ساختن تجربه‌های کاربری فوق‌العاده‌ام.  
+با HTML، CSS، JavaScript و React، دنیای وب رو به زندگی می‌بخشم.  
+همیشه دنبال چالش‌های جدیدم و از یادگیری تکنولوژی‌های نو نمی‌ترسم.  
+هدفم اینه که با کدهام، وب رو زیباتر و کاربردی‌تر کنم.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirsalehtaghavian&" alt="amirsalehtaghavian" /></p>
+---
+
+## 🛠️ مهارت‌های کلیدی
+<p align="center">
+  <!-- استفاده از استایل تیره تر برای مهارت ها -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git&perline=6&theme=dark" alt="مهارت ها" />
+</p>
+
+---
+
+## ✨ پروژه‌های برتر من
+<p align="center">
+  <!-- لینک ها با استایل استاندارد -->
+  <a href="https://github.com/YOUR-USERNAME/PROJECT-1-NAME" target="_blank">
+    <img src="https://img.shields.io/badge/Project%201-React-blue?style=flat-square&logo=react" alt="پروژه ۱" />
+  </a>
+  <a href="https://github.com/YOUR-USERNAME/PROJECT-2-NAME" target="_blank">
+    <img src="https://img.shields.io/badge/Project%202-TailwindCSS-cyan?style=flat-square&logo=tailwindcss" alt="پروژه ۲" />
+  </a>
+  <a href="https://github.com/YOUR-USERNAME/PROJECT-3-NAME" target="_blank">
+    <img src="https://img.shields.io/badge/Project%203-JavaScript-yellow?style=flat-square&logo=javascript" alt="پروژه ۳" />
+  </a>
+</p>
+
+---
+
+## 📊 وضعیت پیشرفته من در گیت‌هاب
+<p align="center">
+  <!-- استایل آمار با پس زمینه شفاف -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-USERNAME&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&bg_color=00000000" alt="تاپ لنگ" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="آمار کلی" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&background=00000000&title_color=ffffff&streak_color=ffffff&ring=ffffff&fire=ffffff" alt="رنگ streaks" />
+</p>
+
+---
+
+## 🐍 گیت‌هاب Snake Animation (متحرک)
+<!-- این بخش نیاز به راه اندازی جداگانه داره -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/master/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<p align="center">
+  <!-- فوتر با رنگ های ملی -->
+  <img src="https://capsule-render.vercel.app/api?type=circle&color=0:FF4500,50:FFD700,100:008000&height=150&section=footer&text=Keep%20Coding%21&fontSize=30&fontColor=ffffff&animation=zoomIn" alt="فوتر" />
+</p>
+`
