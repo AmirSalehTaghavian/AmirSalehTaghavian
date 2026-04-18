@@ -35,26 +35,25 @@
 <br/>
 
 ## 🔗 شبکه‌های اجتماعی و حمایت مالی
-
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <!-- لینک یوتیوب -->
-  <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL_ID" target="_blank">
+  <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL_ID" target="_blank" style="margin: 5px;">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" alt="یوتیوب" width="30" height="30"/>
   </a>
   <!-- لینک تلگرام -->
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank" style="margin: 5px;">
     <img src="https://img.icons8.com/ios-filled/50/000000/telegram-app.png" alt="تلگرام" width="30" height="30"/>
   </a>
   <!-- لینک اینستاگرام -->
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank" style="margin: 5px;">
     <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="اینستاگرام" width="30" height="30"/>
   </a>
   <!-- لینک دونیت (مثلا با PayPal) -->
-  <a href="https://www.paypal.me/YOUR_PAYPAL_ME_LINK" target="_blank">
+  <a href="https://www.paypal.me/YOUR_PAYPAL_ME_LINK" target="_blank" style="margin: 5px;">
     <img src="https://img.icons8.com/ios-filled/50/000000/paypal.png" alt="دونیت با پی‌پال" width="30" height="30"/>
   </a>
    <!-- لینک دونیت (مثلا با Buy Me A Coffee) -->
-  <a href="https://www.buymeacoffee.com/YOUR_BMAC_USERNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/YOUR_BMAC_USERNAME" target="_blank" style="margin: 5px;">
     <img src="https://img.icons8.com/ios-filled/50/000000/buy-me-a-coffee.png" alt="خرید یه قهوه برام" width="30" height="30"/>
   </a>
 </p>
