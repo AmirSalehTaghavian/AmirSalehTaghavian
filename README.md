@@ -18,10 +18,7 @@
 </p>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 ---
 
 ## 📊 وضعیت گیت‌هاب من
@@ -30,6 +27,9 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
+
+<br/>
+<br/>
 ---
 
 ## فعالیت و اموزش ها
@@ -49,16 +49,10 @@
   </a>
 </p>
 
+<br/>
+<br/>
 
 
-## 🐍 انیمیشن contributions (اگر شلوغ نشد)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" />
-</p>
-`
+Thanks For Read This Profile ❤
