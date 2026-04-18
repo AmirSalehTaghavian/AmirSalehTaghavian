@@ -35,24 +35,23 @@
 <br/>
 
 ## 🔗 شبکه‌های اجتماعی و حمایت مالی
-<p align="center" style="display: none;">
+<p align="center">
   <!-- لینک یوتیوب -->
   <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL_ID" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube" alt="یوتیوب" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="یوتیوب" />
   </a>
   <!-- لینک تلگرام -->
   <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E2?style=social&logo=telegram" alt="تلگرام" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E2?style=flat-square&logo=telegram&logoColor=white" alt="تلگرام" />
   </a>
   <!-- لینک اینستاگرام -->
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" alt="اینستاگرام" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="اینستاگرام" />
   </a>
   <!-- لینک دونیت (مثلا با PayPal) -->
   <a href="https://www.paypal.me/YOUR_PAYPAL_ME_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-PayPal-007bff?style=social&logo=paypal" alt="دونیت با پی‌پال" />
+    <img src="https://img.shields.io/badge/Donate-PayPal-007bff?style=flat-square&logo=paypal&logoColor=white" alt="دونیت با پی‌پال" />
   </a>
-   <!-- لینک دونیت (مثلا با Buy Me A Coffee) -->
 </p>
 
 <br/>
