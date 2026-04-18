@@ -35,7 +35,7 @@
 <br/>
 
 ## 🔗 شبکه‌های اجتماعی و حمایت مالی
-<p align="center" display="none">
+<p align="center" style="display: none;">
   <!-- لینک یوتیوب -->
   <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL_ID" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube" alt="یوتیوب" />
