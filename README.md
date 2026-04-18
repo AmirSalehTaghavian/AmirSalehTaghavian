@@ -33,7 +33,11 @@
 ---
 
 <br/>
-## فعالیت و اموزش 
+
+## 🔗 شبکه‌های اجتماعی و حمایت مالی
+
+
+ 
 <p align="center">
   <!-- Youtube Link  -->
   <a href="https://www.youtube.com/channel/YOUR_YOUTUBE_CHANNEL_ID" target="_blank">
