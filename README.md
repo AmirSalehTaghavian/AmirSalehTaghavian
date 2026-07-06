@@ -17,8 +17,9 @@ My goal is to build **beautiful, fast, and clean user interfaces**.
 
 ## 🚀 My Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,figma,xd,framer&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,figma,xd,framer,framer-motion&perline=6" />
 </p>
+
 
 ---
 
