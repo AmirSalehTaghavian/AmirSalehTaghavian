@@ -47,8 +47,8 @@ My goal is to build **beautiful, fast, and clean user interfaces**.
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AmirSalehTaghavian&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirSalehTaghavian&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
