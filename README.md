@@ -38,7 +38,7 @@ My goal is to build **beautiful, fast, and clean user interfaces**.
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/amirstz.web" target="_blank">
+  <a href="https://www.instagram.com/amirstzweb" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
